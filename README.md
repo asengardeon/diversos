@@ -55,6 +55,7 @@ Avançado
 - Java
 
 #Conhecimento básico, não atuando profissionalmente
+- JSF
 - php
 - python
 - C# .Net
