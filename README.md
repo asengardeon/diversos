@@ -55,8 +55,8 @@ Avançado
 - Java
 
 #Conhecimento básico, não atuando profissionalmente
-- JSF
-- php
+- JSF, utilizando Primefaces.
+- php, utilizando laravel e cakephp.
 - python
-- C# .Net
-- Desenvolvimento de front-end(Html+css+js)
+- C# .Net, utilizandp MVC 5.
+- Desenvolvimento de front-end(Html+css+js). Bootstrap, Angular, etc...
