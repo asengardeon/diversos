@@ -30,7 +30,7 @@ Cargo: Desenvolvedor em Delphi
 Desenvolvedor do sistema resposável pela logistica de frota de ônibus da empresa.
 
 #Formação acadêmica
-- Pós-graduando em Engenharia de Software pela Universidade do Estado de Santa Catarina(UDESC) formação prevista para  1 sem/2016
+- Pós-graduando em Engenharia de Software pela Universidade do Estado de Santa Catarina(UDESC) . Falta o TCC. Previsão de formação para 2016/2
 
 - Bacharel em Ciência da Computação pela Universisade Regional de Blumenau(FURB) em 2014.
 
