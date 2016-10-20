@@ -59,5 +59,5 @@ Avançado
 - JSF, utilizando Primefaces.
 - php, utilizando laravel e cakephp.
 - python
-- C# .Net, utilizandp MVC 5.
+- C# .Net, utilizando MVC 5.
 - Desenvolvimento de front-end(Html+css+js). Bootstrap, Angular, etc...
