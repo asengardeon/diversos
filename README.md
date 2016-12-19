@@ -61,3 +61,10 @@ Avançado
 - python
 - C# .Net, utilizando MVC 5.
 - Desenvolvimento de front-end(Html+css+js). Bootstrap, Angular, etc...
+
+#Certificados
+
+##DevMedia
+###AngularJS
+* [Crud](certificados/Certificado-Devmedia-crud-angularjs.pdf)
+* [Rotas](certificados/Certificado-Devmedia-rotas-angularjs.pdf)
