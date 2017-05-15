@@ -68,3 +68,5 @@ Avançado
 ### AngularJS
 * [Crud](certificados/Certificado-Devmedia-crud-angularjs.pdf)
 * [Rotas](certificados/Certificado-Devmedia-rotas-angularjs.pdf)
+## Participação em Eventos
+* [TDC 2017 - Trilha de arquitetura](certificados//certificadoTDC2017Floripa-Arquitetura.pdf)
