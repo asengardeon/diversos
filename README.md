@@ -19,8 +19,8 @@ Estou em busca de uma empresa em que possa utilizar tecnologias para "Ver os olh
 # Experiência Profissional
 
 *Desde 2017* - Handit Sistemas Ltda.
-*Cargo*: Arquiteto de Software. Parte da equipe de desenvoviemnto de um Software para orçamento financeiro para plataforma web.
-*Tecnologias*:  Play Framework, Spring, Oracle, Vue+Vuex, Jenkins, teste automatizados com Jasmine+Karma e Junit
+*Cargo*: Arquiteto de Software. Parte da equipe de desenvolvimento de um Software para planejamneto orçamentário para plataforma web.
+*Tecnologias*:  Play Framework, Spring, Oracle, Vue+Vuex, Jenkins, teste automatizados com Jasmine+Karma, cypress (e2e) e Junit
 
 *2017-2017* - Philips Clinical Informatics
 *Cargo*: Arquiteto de Software. Responsável pela celula de desenvolvimento de aplicação móvel para área de agendamento de consultas e exames médicos  utilizando landing page responsiva. 
@@ -76,7 +76,7 @@ Avançado
   
 # Conhecimento básico, não atuando profissionalmente
 - JSF, utilizando Primefaces.
-- php, utilizando laravel e cakephp.
+- php, utilizando laravel, cakephp e zend-framework.
 - python
 - C# .Net, utilizando MVC 5.
 
