@@ -14,7 +14,8 @@ Atuar como desenvolvedor de forma que possa aprimorar minha experiência e poder
 Estou em busca de uma empresa em que possa utilizar tecnologias para "Ver os olhos do cliente brilharem"
 
 # Resumo profissional
-13 anos de experiência na área de desenvolvimento, com conhecimentos profundos da linguagem Delphi e Java com especialidade em Banco de dados.
+13 anos de experiência na área de desenvolvimento. Com conhecimentos profundos da linguagem Delphi e Java com especialidade em Banco de dados backend
+vue/vuex, javascript, css  em frontend e ainda atuei com outras ferramentas. Atuei como analista também dentro deste periodo como analista de uma equipe focada em desenvolvimento de framework.
 
 # Experiência Profissional
 
@@ -57,22 +58,29 @@ Nível avançado de inglês. Instituição Rockfeller Blumenau
 Estão organizados por grau de conhecimento
 
 ## NoSql
+- MongoDB
 - DynamoDB
 
 # Conhecimento nas linguagens de programação 
 Avançado
 - Delphi
 - Java
+- Javascript
+- CSS
 
 # Experiência nos Frameworks e bibliotecas
 - Spring
 - Guice
-- Vue
+- Vue/VueEx
 - Angular
-- Javascript
-- CSS
 - Jasmine+Karma
+- Cypress
 - GIT
+
+
+#Processos
+- Modelos cascata
+- SCRUM+Kanban
   
 # Conhecimento básico, não atuando profissionalmente
 - JSF, utilizando Primefaces.
