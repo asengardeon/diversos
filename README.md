@@ -1,4 +1,4 @@
-[# Dados Pessoais
+# Dados Pessoais
 
 Leandro Vilson Battisti  
 Solteiro, brasileiro,
