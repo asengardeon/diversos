@@ -24,13 +24,13 @@ vue/vuex, javascript, css  em frontend e ainda atuei com outras ferramentas. Atu
 
 *Desde 2017* - Handit Sistemas Ltda.
 **Cargo**: Arquiteto de Software. Parte da equipe de desenvolvimento de um Software para planejamneto orçamentário para plataforma web.
-**Tecnologias**:  Play Framework, Spring, Oracle, Vue+Vuex, Jenkins, teste automatizados com Jasmine+Karma, cypress (e2e) e Junit
+**Tecnologias** :  Play Framework, Spring, Oracle, Vue+Vuex, Jenkins, teste automatizados com Jasmine+Karma, cypress (e2e) e Junit
 **Resumo**: Atuando no desenvolvimento de produto  e melhorias da plataforma de planejamento orçamentário.
 
 *2017-2017* - Philips Clinical Informatics
 **Cargo**: Arquiteto de Software. 
-**Tecnologias**:  Angular 1.6 html5 + css3, Java, Oracle, Guice, teste automatizados com Jasmine+Karma e Junit.
-**Resumo**: Responsável pela celula de desenvolvimento de aplicação móvel para área de agendamento de consultas e exames médicos  utilizando landing page responsiva. Durante o periodo de atuação Foi desenvolvida toda base do framework minimo para desenvolvimento de aplicações e treinamentos para equipes brasileiras, e do exterior(reuniões em ingês) e reuniões com gestores brasileiros e estrangeiros.
+**Tecnologias** :  Angular 1.6 html5 + css3, Java, Oracle, Guice, teste automatizados com Jasmine+Karma e Junit.
+**Resumo** : Responsável pela celula de desenvolvimento de aplicação móvel para área de agendamento de consultas e exames médicos  utilizando landing page responsiva. Durante o periodo de atuação Foi desenvolvida toda base do framework minimo para desenvolvimento de aplicações e treinamentos para equipes brasileiras, e do exterior(reuniões em ingês) e reuniões com gestores brasileiros e estrangeiros.
 Hoje há pelo menos 4 aplicações gereciais da área de saúde utilizando este framework.
 
 *2006 - 2016* - Senior Sistemas S/A
