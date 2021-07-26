@@ -73,6 +73,8 @@ Estão organizados por grau de conhecimento
 Avançado
 - Delphi
 - Java
+- python
+- C# .Net
 - Javascript
 - CSS
 
@@ -93,11 +95,10 @@ Avançado
 ## Conhecimento básico, não atuando profissionalmente
 - JSF, utilizando Primefaces.
 - php, utilizando laravel, cakephp e zend-framework.
-- python
-- C# .Net, utilizando MVC 5.
 
 ## Certificados
-
+###Bootcamps
+* [Analista de Ataque Cibernético](certificados/certificado_asengardeons_ataque_cyber-igti.pdf)
 ### DevMedia
 #### AngularJS
 * [Crud](certificados/Certificado-Devmedia-crud-angularjs.pdf)
