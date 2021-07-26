@@ -2,12 +2,12 @@
 ## Dados Pessoais
 
 Leandro Vilson Battisti  
-Solteiro, brasileiro,
+Casado, brasileiro,
 Data de nascimento: 18/05/1986  
-Rua Arthur Weise, 121 - Água Verde  
-CEP 89032-290 - Blumenau - SC  
-Tel. residencial: (47) 3330-5180  
-Celular: (47) 9175-1805  
+Rua General Osório 1209, ap 604, Velha  
+CEP 89041-009 - Blumenau - SC  
+Tel. residencial: (47) 99175-1805  
+Celular: (47) 99175-1805  
 E-mail: asengardeons@hotmail.com  
 github: https://github.com/asengardeon
 
@@ -18,19 +18,42 @@ Estou em busca de uma empresa em que possa utilizar tecnologias para "Ver os olh
 No momento de minha carreira busco possibilidade de atuar em liderança de equipe ou desafios de desenvolvimento de tecnologias inovadoras. Se possível as duas coisas ao mesmo tempo.
 
 ## Resumo profissional
-13 anos de experiência na área de desenvolvimento. Com conhecimentos profundos da linguagem Delphi e Java com especialidade em Banco de dados backend
-vue/vuex, javascript, css  em frontend e ainda atuei com outras ferramentas. Atuei como analista também dentro deste período como analista de uma equipe focada em desenvolvimento de framework.
+15 anos de experiência na área de desenvolvimento. Atualmente trabalho como Analista desenvolvedor. Atuando com tecnologias diversas, micro serviços e Agile.
+Conhecimento principalmente em rotinas relacionada a banco de dados, sendo responsável por rotinas, ferramentas, processos e desenvolvimento de microserviços aderentes ao negócio da companhia.
+Grande conhecimento em Delphi, Java, python, front-end com jquery + vue e um pouco de C# e bancos Oracle, Postgresql e SQL Server.
+Além disso gosto de me aventurar estudando outras linguagens como C, C++, PHP entre outras, e tecnologias de web como reactjs, laravel, cakephp, entre outras.
+Conhecimentos em ambientes cloud com Azure, AWS, atuando com Devops
+
+Possuo pós graduação em engenharia de software e pôs graduando em ciência de dados
 
 ## Experiência Profissional
 
-*Desde 2017* - **Handit Sistemas Ltda.**
+*2021-2021* - **Ambevtech**
+**Cargo**: Coordenador Tech.   
+**Resumo**: Coordenador responsável pela equipe de produto de documentos eletrônicos da companhia.
+Atribuições:
+- Desenvolvi de pessoas
+- Gestão depessoas
+- Recrutamento e seleção para equipe
+- Acompanhamento de indicadores e evolução de produto
+- Cumprindo papel de SM dentro da Equipe
+
+
+*2019-2021* - **Ambevtech**
+**Cargo**: Analista desenvolvedor. 
+**Tecnologias** :  Python, Java Spring, C#, Mongo, Postgresql, Azure devops, datadog, sonarqube, sentry  
+**Resumo**: Atuando em projeto de inovação da empresa, focado na atuação de desenvolvimento e experimentação de arquitetura, linguagens e processos para definição de modelos de trabalhos e ferramentas que sejam aderentes ao negócio da empresa com foco na transformação digital da companhia. Atuando com Python, Java, C# e Go. Bancos de dados Postgresql e MongoDB além de ser devops full Azure + Datadog + rabbitMQ.
+
+*2017-2019* - **Handit Sistemas Ltda.**
 **Cargo**: Arquiteto de Software. Parte da equipe de desenvolvimento de um Software para planejamneto orçamentário para plataforma web.
-**Tecnologias** :  Play Framework, Spring, Oracle, Vue+Vuex, Jenkins, teste automatizados com Jasmine+Karma, cypress (e2e) e Junit
-**Resumo**: Atuando no desenvolvimento de produto  e melhorias da plataforma de planejamento orçamentário.
+**Tecnologias** :  Play Framework, Spring, Oracle, Vue+Vuex, Jenkins, teste automatizados com Jasmine+Karma, cypress (e2e) e Junit  
+**Resumo**: Desenvolvimento de software para planejamento orçamentário trabalhando com Java Springboot, playframework, vue+vueEx e jquery. Utilização de AWS e bancos de dados Oracle e MongoDB.
+Por se tratar de uma startup a atuação era bem diversificada, desde o desenvolvimento até apoio a áreas como comercial, consultoria e atendimento diretamente a clientes.
+
 
 *2017-2017* - **Philips Clinical Informatics**
 **Cargo**: Arquiteto de Software. 
-**Tecnologias** :  Angular 1.6 html5 + css3, Java, Oracle, Guice, teste automatizados com Jasmine+Karma e Junit.
+**Tecnologias** :  Angular 1.6 html5 + css3, Java, Oracle, Guice, teste automatizados com Jasmine+Karma e Junit.  
 **Resumo** : Responsável pela celula de desenvolvimento de aplicação móvel para área de agendamento de consultas e exames médicos  utilizando landing page responsiva. Durante o periodo de atuação Foi desenvolvida toda base do framework minimo para desenvolvimento de aplicações e treinamentos para equipes brasileiras, e do exterior(reuniões em ingês) e reuniões com gestores brasileiros e estrangeiros.
 Hoje há pelo menos 4 aplicações gerenciais da área de saúde utilizando este framework.
 
@@ -87,6 +110,9 @@ Avançado
 - Cypress
 - GIT
 
+## Cloudproviders
+- Azure
+- AWS
 
 ## Processos
 - Modelos cascata
