@@ -1,6 +1,3 @@
-
-<![endif]-->
-
 ## Personal Data
 
 Leandro Vilson Battisti
