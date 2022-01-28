@@ -9,7 +9,7 @@ CEP 89041-009 - Blumenau - SC
 Tel. residencial: (47) 99175-1805  
 Celular: (47) 99175-1805  
 E-mail: asengardeons@hotmail.com  
-github: https://github.com/asengardeon
+github: https://github.com/asengardeon  
 Linkedin: https://www.linkedin.com/in/leandro-vilson-battisti-28198346
 
 ## Objetivo
