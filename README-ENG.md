@@ -40,16 +40,18 @@ Knowledge in cloud environments with Azure, AWS, working with Devops
 
 I have a postgraduate degree in software engineering and data science.
 
+------
+
 ## Professional experience
 
-*2021-2022* - **Ambevtech**
+### *2021-2022* - **Ambevtech**
 
 **Role**: Developer.
 
 **Resumo**: Java/Spring developer : Development of applications focused on product tax taxes. Project focused on migration from legacy product to microservice
   
 
-*2021-2021* - **Ambevtech**
+### *2021-2021* - **Ambevtech**
 
 **Role**: Tech Coordinator.
 
@@ -67,7 +69,7 @@ Attributions:
 
 - Fulfilling SM role within the Team
 
-*2019-2021* - **Ambevtech**
+### *2019-2021* - **Ambevtech**
 
 **Role**: Developer Analyst.
 
@@ -75,7 +77,7 @@ Attributions:
 
 **abstract**: Working on the company's innovation project, focused on the development and experimentation of architecture, languages ​​and processes to define work models and tools that are adherent to the company's business with a focus on the company's digital transformation. Working with Python, Java, C# and Go. Postgresql and MongoDB databases in addition to being devops full Azure + Datadog + rabbitMQ.
 
-*2017-2019* - **Handit Sistemas Ltda.**
+### *2017-2019* - **Handit Sistemas Ltda.**
 
 **Role**: Software architect. Part of the software development team for budget planning for web platform.
 
@@ -86,7 +88,7 @@ Attributions:
 As it was a startup, the performance was very diverse, from development to support in areas such as commercial, consulting and direct customer service.
 
   
-*2017-2017* - **Philips Clinical Informatics**
+### *2017-2017* - **Philips Clinical Informatics**
 
 **Role**: Software Architect.
 
@@ -97,7 +99,7 @@ As it was a startup, the performance was very diverse, from development to suppo
 Today there are at least 4 health management applications using this framework.
 
   
-*2006 - 2016* - **Senior Sistemas S/A**
+### *2006 - 2016* - **Senior Sistemas S/A**
 **Role**: Developer. Working as a programmer and framework systems analyst for 8 years.
 
 Working as a software architect specializing in databases since Jan/2015.
@@ -105,15 +107,16 @@ Working as a software architect specializing in databases since Jan/2015.
 **abstract**: During the first years I worked as a developer and maintainer of framework routines developed in Delphi 5. I started to act as a cell leader and for being a reference within the team I became an analyst and responsible for the team that maintained part of the product development framework. After 2 years working as an analyst I started to work on a migration project from Delphi to Java where I led a team that had 14 members where we delivered the migration of product modules aimed at people management. After this project was successfully delivered, I started working as a Software Architect where I was the reference within the products regarding database structuring, I worked on a migration project to the Cloud environment. During this final period within the company, I set up and led a committee responsible for evaluating changes to the database.
 
   
-*2006-2006* - **Amplify Sistemas Ltda.**
+### *2006-2006* - **Amplify Sistemas Ltda.**
  
 **Role**: Developer in Delphi(Internship). Participation in the software development team for insurance brokers. 
 
   
-*2005-2006* -**Company Nossa Senhora da Glória Ltda.**
+### *2005-2006* -**Company Nossa Senhora da Glória Ltda.**
   
 **Role**: Delphi Developer System developer responsible for the company's bus fleet logistics.
 
+------
 
 ## Academic education
 
@@ -123,9 +126,12 @@ Working as a software architect specializing in databases since Jan/2015.
 
 - Bachelor in Computer Science from the Regional University of Blumenau (FURB) in 2014.
 
+------
 ## Languages
 
 Advanced level of English. Rockefeller Blumenau Institution
+
+------
 
 ## Database knowledge
 
