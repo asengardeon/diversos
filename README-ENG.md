@@ -196,4 +196,4 @@ Advanced
 
 - php, with laravel, cakephp and zend-framework.
 
-os//certificadoTDC2017Floripa-Arquitetura.pdf)
+
