@@ -1,99 +1,199 @@
 
-# Personal data
+<![endif]-->
+
+## Personal Data
 
 Leandro Vilson Battisti
-Single, Brazilian,
-Date of birth: 05/18/1986
-Arthur Weise Street, 121 - Agua Verde
-CEP 89032-290 - Blumenau - SC
-Home Phone: +55 (47) 3330-5180
-Cellphone: +55 (47) 99175-1805
+
+Married, brazilian,
+
+Birth date: 18/may/1986
+
+General Osório St, 1209,  apartment 604, Velha
+
+ZIP 89041-009 - Blumenau - SC
+
+Phone: +55 47 99175-1805
+
 E-mail: asengardeons@hotmail.com
 
-# Goal
-To act as a developer so that I can improve my experience and deliver a better product for the customer.
-I'm looking for a company where I can use technologies to "See the eyes of the customer shinning"
+github: https://github.com/asengardeon
 
-# Professional Resume
-13 years of experience in development. With deep knowledge of Delphi and Java language with backend database expertise
-vue / vuex, javascript, css in frontend and I have worked with other tools. I also worked as an analyst within this period as an analyst of a team focused on framework development.
+Linkedin: https://www.linkedin.com/in/leandro-vilson-battisti-28198346
+
+## GOAL
+
+Act in a way that can improve my experience and be able to deliver a better product to the customer.
+
+I'm looking for a company where I can use technologies to "See the customer's eyes shine".
+
+At the moment of my career I am looking for the possibility of working in international projects.
+
+## Professional resume
+
+16 years of experience in the development field. I currently work as a developer. Working with different technologies, micro services and Agile.
+
+Knowledge mainly in database related routines, being responsible for routines, tools, processes and development of microservices adhering to the company's business.
+
+Great knowledge in Delphi, Java, python, front-end with jquery + vue and a little bit of C# and Oracle, Postgresql and SQL Server databases.
+
+In addition, I like to venture into studying other languages ​​such as C, C++, PHP, among others, and web technologies such as reactjs, laravel, cakephp, among others.
+
+Knowledge in cloud environments with Azure, AWS, working with Devops
+
+I have a postgraduate degree in software engineering and data science.
+
+## Professional experience
+
+*2021-2022* - **Ambevtech**
+
+**Role**: Developer.
+
+**Resumo**: Java/Spring developer : Development of applications focused on product tax taxes. Project focused on migration from legacy product to microservice
 
 
-# Professional experience
+*2021-2021* - **Ambevtech**
 
-* Since 2017 * - Handit Sistemas Ltda.
-* Position *: Software Architect. Part of the development team of a software for budget planning on web platform.
-* Technologies *: Play Framework, Spring, Oracle, Vue + Vuex, Jenkins, automated testing with Jasmine + Karma, cypress (e2e), and Junit
+**Role**: Tech Coordinator.
 
-* 2017-2017 * - Philips Clinical Informatics
-* Position *: Software Architect. Responsible for mobile application development team for scheduling and medical examinations using responsive landing page.
-* Technologies *: Angular 1.6 html5 + css3, Java, Oracle, Guice, automated testing with Jasmine + Karma and Junit.
+**Abstract**: Coordinator responsible for the company's electronic documents product team.
 
-* 2006 - 2016 * - Senior Sistemas S / A
-* Position *: Developer. Acting as Programmer and Framework Systems Analyst for 8 years.
-Acting as software architect with specialty in database since jan / 2015.
+Attributions:
 
-* 2006-2006 * - Amplify Sistemas Ltda.
-* Position *: Developer in Delphi (Internship).
-Participation in the software development team for insurance brokers.
+- People development
 
-* 2005-2006 * - Empresa Nossa Senhora da Glória Ltda.
-Position: Developer in Delphi
-Developer of the system responsible for logistics of the company's bus fleet.
+- People management
 
-# Academic training
-- Speacialization in Software Engineering from the State University of Santa Catarina (UDESC). Missing CBT. Waiting for a new class.
-- Bachelor in Computer Science at the Regional University from Blumenau (FURB) in 2014.
+- Recruitment and selection for the team
+
+- Monitoring of indicators and product evolution
+
+- Fulfilling SM role within the Team
+
+*2019-2021* - **Ambevtech**
+
+**Role**: Developer Analyst.
+
+**Technologies** : Python, Java Spring, C#, Mongo, Postgresql, Azure devops, datadog, sonarqube, sentry
+
+**abstract**: Working on the company's innovation project, focused on the development and experimentation of architecture, languages ​​and processes to define work models and tools that are adherent to the company's business with a focus on the company's digital transformation. Working with Python, Java, C# and Go. Postgresql and MongoDB databases in addition to being devops full Azure + Datadog + rabbitMQ.
+
+*2017-2019* - **Handit Sistemas Ltda.**
+
+**Role**: Software architect. Part of the software development team for budget planning for web platform.
+
+**Technologies** : Play Framework, Spring, Oracle, Vue+Vuex, Jenkins, automated testing with Jasmine+Karma, cypress (e2e) and Junit
+
+**abstract**: Software development for budget planning working with Java Springboot, playframework, vue+vueEx and jquery. Use of AWS and Oracle and MongoDB databases.
+
+As it was a startup, the performance was very diverse, from development to support in areas such as commercial, consulting and direct customer service.
+
+*2017-2017* - **Philips Clinical Informatics**
+
+**Role**: Software Architect.
+
+**Technologies** : Angular 1.6 html5 + css3, Java, Oracle, Guice, automated testing with Jasmine+Karma and Junit.
+
+**abstract** : Responsible for the mobile application development cell for appointment scheduling area and medical exams using responsive landing page. During the period of operation, the entire base of the minimum framework was developed for the development of applications and training for Brazilian and foreign teams (meetings in English) and meetings with Brazilian and foreign managers.
+
+Today there are at least 4 health management applications using this framework.
+
+*2006 - 2016* - **Senior Sistemas S/A**
+**Role**: Developer. Working as a programmer and framework systems analyst for 8 years.
+
+Working as a software architect specializing in databases since Jan/2015.
+
+**abstract**: During the first years I worked as a developer and maintainer of framework routines developed in Delphi 5. I started to act as a cell leader and for being a reference within the team I became an analyst and responsible for the team that maintained part of the product development framework. After 2 years working as an analyst I started to work on a migration project from Delphi to Java where I led a team that had 14 members where we delivered the migration of product modules aimed at people management. After this project was successfully delivered, I started working as a Software Architect where I was the reference within the products regarding database structuring, I worked on a migration project to the Cloud environment. During this final period within the company, I set up and led a committee responsible for evaluating changes to the database.
+
+*2006-2006* - **Amplify Sistemas Ltda.**
+ 
+**Role**: Developer in Delphi(Internship). Participation in the software development team for insurance brokers. 
+
+*2005-2006* -**Company Nossa Senhora da Glória Ltda.**
+  
+**Role**: Delphi Developer System developer responsible for the company's bus fleet logistics.
 
 
-# Languages
-Advanced level of English. Rockfeller Institution Blumenau
+## Academic education
 
-# Knowledge in database
-## Relational
+- Postgraduate student in Data Science at theRegional University of Blumenau (FURB). 
+
+- Postgraduate student in Software Engineering at the State University of Santa Catarina (UDESC). TCC is missing. Waiting for new class.
+
+- Bachelor in Computer Science from the Regional University of Blumenau (FURB) in 2014.
+
+## Languages
+
+Advanced level of English. Rockefeller Blumenau Institution
+
+## Database knowledge
+
+### SQL
+
 - Sql Server
-- Oracle
-- Postgree
-- MySql
-- DB2
-They are organized by degree of knowledge
 
-## NoSql
+- Oracle
+
+- Postgree
+
+- MySql
+
+- DB2
+
+They are organized by level of knowledge
+
+### NoSql
+
 - MongoDB
+
 - DynamoDB
 
-# Knowledge in programming languages
+## Knowledge of programming languages
+
 Advanced
+
 - Delphi
+
 - Java
+
+- python
+
+- C# .Net
+
 - Javascript
+
 - CSS
 
-# Experience in Frameworks and Libraries
+## Experience in Frameworks and Libraries
+
 - Spring
-- Guice
-- Vue / VueEx
-- Angular
-- Jasmine + Karma
+
+- Vue/VueEx
+
+- AngularJS
+
+- Jasmine+Karma
+
 - Cypress
+
 - GIT
 
+## Cloudproviders
 
-#Processes
-- Cascade models
-- SCRUM + Kanban
-  
-# Basic knowledge, not acting professionally
+- Azure
+
+- AWS
+
+## Process
+
+- Waterfall
+
+- SCRUM+Kanban
+
+## Basic knowledge, not acting professionally
+
 - JSF, using Primefaces.
-- php, using laravel, cakephp and zend-framework.
-- python
-- C # .Net, using MVC 5.
 
-# Certificates
+- php, with laravel, cakephp and zend-framework.
 
-## DevMedia
-### AngularJS
-* [Crud] (certificates / Certificate-Devmedia-crud-angularjs.pdf)
-* [Routes] (certificates / Certificate-Devmedia-routes-angularjs.pdf)
-## Event Participation
-* [TDC 2017 - Architecture Trail] (certificates // certificateTDC2017Floripa-Arquitetura.pdf)
+os//certificadoTDC2017Floripa-Arquitetura.pdf)
