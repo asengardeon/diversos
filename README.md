@@ -32,6 +32,14 @@ Possuo pós graduação em engenharia de software e pôs graduando em ciência d
 ----
 ## Experiência Profissional
 
+### **2022-2023** -  Ifood Agência de restaurantes LTDA##
+** Cargo: Software Engineer Specialist **
+** Resumo: Engenheiro especialista para apoio de desenvolvimento das soluções da BU de Beneficios, atuando com desenvolvimento de microserviçops da área financeira e de dados empresariais.
+Atribuições: Atuar como engenheiro de software em toda a BU, com foco das squads financeiras e de dados de companias, mas de forma cross entre as equipes da BU. Foco no desenvolvimento técnico de pessoas e disseminação de boas praticas de desenvovimentom além da responsabildiade sobre ajudar com desenvolvimento de soluções inovadoras.
+
+Stack envolvida: Kotlin, Go, Nodejs, Postgresql, AWS, Kafka  
+
+
 ### *2021-2022* - **Ambevtech**  
 **Cargo**: Desenvolvedor.   
 **Resumo**: Desenvolvedor Java/Spring: Desenvolvimento de aplicativos voltados para impostos sobre produtos. Projeto focado na migração de produto legado para microsserviço
