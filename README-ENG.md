@@ -43,12 +43,22 @@ I have a postgraduate degree in software engineering and data science.
 ------
 
 ## Professional experience
+### **2022-2023** - Ifood Restaurant Agency LTDA##
+** Role: ** Software Engineer Specialist 
+** Abstract: Specialist engineer to support the development of the Beneficios BU solutions, working with the development of microservices in the financial area and business data.
+Attributions: Act as a software engineer across the BU, focusing on the financial and data squads of companies, but cross between the BU teams. Focus on the technical development of people and the dissemination of good development practices, in addition to the responsibility for helping with the development of innovative solutions.
+
+Stack: Kotlin, Go, Nodejs, Postgresql, Redis, AWS, Kafka, Docker, Kubernetes, Gitlab, SonarQube, Grafana, Prometheus
+Methodology: Kanban
 
 ### *2021-2022* - **Ambevtech**
 
 **Role**: Developer.
 
-**Resumo**: Java/Spring developer : Development of applications focused on product tax taxes. Project focused on migration from legacy product to microservice
+**Abstract**: Java/Spring developer : Development of applications focused on product tax taxes. Project focused on migration from legacy product to microservice
+
+**Stack:** Java, Postgresql, Redis, MongoDB, Azure, RabbitMQ, Docker, Kubernetes, Gitlab, Sonarqube, Datadog
+Methodology: Kanban
   
 
 ### *2021-2021* - **Ambevtech**
@@ -73,9 +83,9 @@ Attributions:
 
 **Role**: Developer Analyst.
 
-**Technologies** : Python, Java Spring, C#, Mongo, Postgresql, Azure devops, datadog, sonarqube, sentry
+**Stack** : Python, Java Spring, C#, MongoDB, Postgresql, Azure, Datadog, SonarQube, Sentry
 
-**abstract**: Working on the company's innovation project, focused on the development and experimentation of architecture, languages ​​and processes to define work models and tools that are adherent to the company's business with a focus on the company's digital transformation. Working with Python, Java, C# and Go. Postgresql and MongoDB databases in addition to being devops full Azure + Datadog + rabbitMQ.
+**Abstract**: Working on the company's innovation project, focused on the development and experimentation of architecture, languages ​​and processes to define work models and tools that are adherent to the company's business with a focus on the company's digital transformation. Working with Python, Java, C# and Go. Postgresql and MongoDB databases in addition to being devops full Azure + Datadog + rabbitMQ.
 
 ### *2017-2019* - **Handit Sistemas Ltda.**
 
