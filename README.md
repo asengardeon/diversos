@@ -2,12 +2,6 @@
 ## Dados Pessoais
 
 Leandro Vilson Battisti  
-Casado, brasileiro,
-Data de nascimento: 18/05/1986  
-Rua General Osório 1209, ap 604, Velha  
-CEP 89041-009 - Blumenau - SC  
-Tel. residencial: (47) 99175-1805  
-Celular: (47) 99175-1805  
 E-mail: asengardeons@hotmail.com  
 github: https://github.com/asengardeon  
 Linkedin: https://www.linkedin.com/in/leandro-vilson-battisti-28198346
